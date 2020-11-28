@@ -21,7 +21,8 @@ search for a movie and get various details of it.
      - react-redux: It is a Library for managing React application state.
      - react-router-dom: A router allows your application to navigate between different components, changing the browser URL, modifying the browser history, and keeping the UI                              state in sync.
 3. In order to run in pc install the packages and ```npm start```
-   
+4. Inorder to make your app live deploy it using netlify or heroku.
+5. ```Happy Coding!!```
    
 ![Movie-info-1](https://user-images.githubusercontent.com/50996696/97550865-382d2a80-19f8-11eb-8652-d4fdc37b31e2.png)
 ![Movie-info-2](https://user-images.githubusercontent.com/50996696/97550869-395e5780-19f8-11eb-8614-51aa1b583d82.png)
