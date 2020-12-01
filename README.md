@@ -16,7 +16,7 @@ search for a movie and get various details of it.
      - Footer
      - Spinner: design of spinner like width, margin, display etc..
 2. **Dependies:**
-   - ```npm i ```
+   - ```npm i axios react-redux react-router-dom```
      - axios: for requesting API calls,
      - react-redux: It is a Library for managing React application state.
      - react-router-dom: A router allows your application to navigate between different components, changing the browser URL, modifying the browser history, and keeping the UI                              state in sync.
